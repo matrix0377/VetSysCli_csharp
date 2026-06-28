@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "h5VQi4SO06k1ed/hV17q4axomiAZK8oNnI62anZbgTs=",
+  "Source": "VetSysCli.Api",
+  "BasePath": "_content/VetSysCli.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

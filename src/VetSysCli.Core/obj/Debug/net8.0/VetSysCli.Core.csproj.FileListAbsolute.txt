@@ -1,0 +1,11 @@
+F:\Projeto VetSysCli\src\VetSysCli.Core\bin\Debug\net8.0\VetSysCli.Core.deps.json
+F:\Projeto VetSysCli\src\VetSysCli.Core\bin\Debug\net8.0\VetSysCli.Core.dll
+F:\Projeto VetSysCli\src\VetSysCli.Core\bin\Debug\net8.0\VetSysCli.Core.pdb
+F:\Projeto VetSysCli\src\VetSysCli.Core\obj\Debug\net8.0\VetSysCli.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projeto VetSysCli\src\VetSysCli.Core\obj\Debug\net8.0\VetSysCli.Core.AssemblyInfoInputs.cache
+F:\Projeto VetSysCli\src\VetSysCli.Core\obj\Debug\net8.0\VetSysCli.Core.AssemblyInfo.cs
+F:\Projeto VetSysCli\src\VetSysCli.Core\obj\Debug\net8.0\VetSysCli.Core.csproj.CoreCompileInputs.cache
+F:\Projeto VetSysCli\src\VetSysCli.Core\obj\Debug\net8.0\VetSysCli.Core.dll
+F:\Projeto VetSysCli\src\VetSysCli.Core\obj\Debug\net8.0\refint\VetSysCli.Core.dll
+F:\Projeto VetSysCli\src\VetSysCli.Core\obj\Debug\net8.0\VetSysCli.Core.pdb
+F:\Projeto VetSysCli\src\VetSysCli.Core\obj\Debug\net8.0\ref\VetSysCli.Core.dll

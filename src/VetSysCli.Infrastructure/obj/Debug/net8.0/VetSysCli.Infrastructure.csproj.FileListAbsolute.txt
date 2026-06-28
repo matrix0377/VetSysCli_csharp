@@ -1,0 +1,15 @@
+F:\Projeto VetSysCli\src\VetSysCli.Infrastructure\bin\Debug\net8.0\VetSysCli.Infrastructure.deps.json
+F:\Projeto VetSysCli\src\VetSysCli.Infrastructure\bin\Debug\net8.0\VetSysCli.Infrastructure.dll
+F:\Projeto VetSysCli\src\VetSysCli.Infrastructure\bin\Debug\net8.0\VetSysCli.Infrastructure.pdb
+F:\Projeto VetSysCli\src\VetSysCli.Infrastructure\bin\Debug\net8.0\VetSysCli.Core.dll
+F:\Projeto VetSysCli\src\VetSysCli.Infrastructure\bin\Debug\net8.0\VetSysCli.Core.pdb
+F:\Projeto VetSysCli\src\VetSysCli.Infrastructure\obj\Debug\net8.0\VetSysCli.Infrastructure.csproj.AssemblyReference.cache
+F:\Projeto VetSysCli\src\VetSysCli.Infrastructure\obj\Debug\net8.0\VetSysCli.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projeto VetSysCli\src\VetSysCli.Infrastructure\obj\Debug\net8.0\VetSysCli.Infrastructure.AssemblyInfoInputs.cache
+F:\Projeto VetSysCli\src\VetSysCli.Infrastructure\obj\Debug\net8.0\VetSysCli.Infrastructure.AssemblyInfo.cs
+F:\Projeto VetSysCli\src\VetSysCli.Infrastructure\obj\Debug\net8.0\VetSysCli.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Projeto VetSysCli\src\VetSysCli.Infrastructure\obj\Debug\net8.0\VetSysCl.CA5F0774.Up2Date
+F:\Projeto VetSysCli\src\VetSysCli.Infrastructure\obj\Debug\net8.0\VetSysCli.Infrastructure.dll
+F:\Projeto VetSysCli\src\VetSysCli.Infrastructure\obj\Debug\net8.0\refint\VetSysCli.Infrastructure.dll
+F:\Projeto VetSysCli\src\VetSysCli.Infrastructure\obj\Debug\net8.0\VetSysCli.Infrastructure.pdb
+F:\Projeto VetSysCli\src\VetSysCli.Infrastructure\obj\Debug\net8.0\ref\VetSysCli.Infrastructure.dll

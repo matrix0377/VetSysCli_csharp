@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VetSysCli.Application/1.0.0": {
+        "dependencies": {
+          "VetSysCli.Core": "1.0.0"
+        },
+        "runtime": {
+          "VetSysCli.Application.dll": {}
+        }
+      },
+      "VetSysCli.Core/1.0.0": {
+        "runtime": {
+          "VetSysCli.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VetSysCli.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VetSysCli.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
