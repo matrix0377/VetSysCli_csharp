@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projeto VetSysCli\\src\\VetSysCli.Core\\VetSysCli.Core.csproj",
+      "projectUniqueName": "F:\\Projeto_VetSysCli\\src\\VetSysCli.Core\\VetSysCli.Core.csproj",
       "projectName": "VetSysCli.Core",
-      "projectPath": "F:\\Projeto VetSysCli\\src\\VetSysCli.Core\\VetSysCli.Core.csproj",
+      "projectPath": "F:\\Projeto_VetSysCli\\src\\VetSysCli.Core\\VetSysCli.Core.csproj",
       "packagesPath": "C:\\Users\\davi_\\.nuget\\packages\\",
-      "outputPath": "F:\\Projeto VetSysCli\\src\\VetSysCli.Core\\obj\\",
+      "outputPath": "F:\\Projeto_VetSysCli\\src\\VetSysCli.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\davi_\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,16 +1,51 @@
-F:\Projeto VetSysCli\src\VetSysCli.Application\bin\Debug\net8.0\VetSysCli.Application.deps.json
-F:\Projeto VetSysCli\src\VetSysCli.Application\bin\Debug\net8.0\VetSysCli.Application.dll
-F:\Projeto VetSysCli\src\VetSysCli.Application\bin\Debug\net8.0\VetSysCli.Application.pdb
-F:\Projeto VetSysCli\src\VetSysCli.Application\bin\Debug\net8.0\VetSysCli.Core.dll
-F:\Projeto VetSysCli\src\VetSysCli.Application\bin\Debug\net8.0\VetSysCli.Core.pdb
-F:\Projeto VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\VetSysCli.Application.csproj.AssemblyReference.cache
-F:\Projeto VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\VetSysCli.Application.GeneratedMSBuildEditorConfig.editorconfig
-F:\Projeto VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\VetSysCli.Application.AssemblyInfoInputs.cache
-F:\Projeto VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\VetSysCli.Application.AssemblyInfo.cs
-F:\Projeto VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\VetSysCli.Application.csproj.CoreCompileInputs.cache
-F:\Projeto VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\VetSysCl.32A28712.Up2Date
-F:\Projeto VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\VetSysCli.Application.dll
-F:\Projeto VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\refint\VetSysCli.Application.dll
-F:\Projeto VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\VetSysCli.Application.pdb
-F:\Projeto VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\ref\VetSysCli.Application.dll
-F:\Projeto VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\VetSysCli.Application.sourcelink.json
+F:/Projeto VetSysCli/src/VetSysCli.Application/bin/Debug/net8.0/VetSysCli.Application.deps.json
+F:/Projeto VetSysCli/src/VetSysCli.Application/bin/Debug/net8.0/VetSysCli.Application.dll
+F:/Projeto VetSysCli/src/VetSysCli.Application/bin/Debug/net8.0/VetSysCli.Application.pdb
+F:/Projeto VetSysCli/src/VetSysCli.Application/bin/Debug/net8.0/VetSysCli.Core.dll
+F:/Projeto VetSysCli/src/VetSysCli.Application/bin/Debug/net8.0/VetSysCli.Core.pdb
+F:/Projeto VetSysCli/src/VetSysCli.Application/obj/Debug/net8.0/VetSysCli.Application.csproj.AssemblyReference.cache
+F:/Projeto VetSysCli/src/VetSysCli.Application/obj/Debug/net8.0/VetSysCli.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:/Projeto VetSysCli/src/VetSysCli.Application/obj/Debug/net8.0/VetSysCli.Application.AssemblyInfoInputs.cache
+F:/Projeto VetSysCli/src/VetSysCli.Application/obj/Debug/net8.0/VetSysCli.Application.AssemblyInfo.cs
+F:/Projeto VetSysCli/src/VetSysCli.Application/obj/Debug/net8.0/VetSysCli.Application.csproj.CoreCompileInputs.cache
+F:/Projeto VetSysCli/src/VetSysCli.Application/obj/Debug/net8.0/VetSysCl.32A28712.Up2Date
+F:/Projeto VetSysCli/src/VetSysCli.Application/obj/Debug/net8.0/VetSysCli.Application.dll
+F:/Projeto VetSysCli/src/VetSysCli.Application/obj/Debug/net8.0/refint/VetSysCli.Application.dll
+F:/Projeto VetSysCli/src/VetSysCli.Application/obj/Debug/net8.0/VetSysCli.Application.pdb
+F:/Projeto VetSysCli/src/VetSysCli.Application/obj/Debug/net8.0/ref/VetSysCli.Application.dll
+F:/Projeto VetSysCli/src/VetSysCli.Application/obj/Debug/net8.0/VetSysCli.Application.sourcelink.json
+F:/Projeto_VetSysCli/src/VetSysCli.Application/obj/Debug/net8.0/VetSysCli.Application.dll
+F:/Projeto_VetSysCli/src/VetSysCli.Application/obj/Debug/net8.0/refint/VetSysCli.Application.dll
+F:/Projeto_VetSysCli/src/VetSysCli.Application/obj/Debug/net8.0/VetSysCli.Application.pdb
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Application/obj/Debug/net8.0/VetSysCli.Application.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Application/obj/Debug/net8.0/refint/VetSysCli.Application.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Application/obj/Debug/net8.0/VetSysCli.Application.pdb
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Application/bin/Debug/net8.0/VetSysCli.Application.deps.json
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Application/bin/Debug/net8.0/VetSysCli.Application.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Application/bin/Debug/net8.0/VetSysCli.Application.pdb
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Application/bin/Debug/net8.0/VetSysCli.Core.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Application/bin/Debug/net8.0/VetSysCli.Core.pdb
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Application/obj/Debug/net8.0/VetSysCli.Application.csproj.AssemblyReference.cache
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Application/obj/Debug/net8.0/VetSysCli.Application.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Application/obj/Debug/net8.0/VetSysCli.Application.AssemblyInfoInputs.cache
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Application/obj/Debug/net8.0/VetSysCli.Application.AssemblyInfo.cs
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Application/obj/Debug/net8.0/VetSysCli.Application.csproj.CoreCompileInputs.cache
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Application/obj/Debug/net8.0/VetSysCli.Application.sourcelink.json
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Application/obj/Debug/net8.0/VetSysCli.Application.csproj.CopyComplete
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Application/obj/Debug/net8.0/ref/VetSysCli.Application.dll
+F:\Projeto_VetSysCli\src\VetSysCli.Application\bin\Debug\net8.0\VetSysCli.Application.deps.json
+F:\Projeto_VetSysCli\src\VetSysCli.Application\bin\Debug\net8.0\VetSysCli.Application.dll
+F:\Projeto_VetSysCli\src\VetSysCli.Application\bin\Debug\net8.0\VetSysCli.Application.pdb
+F:\Projeto_VetSysCli\src\VetSysCli.Application\bin\Debug\net8.0\VetSysCli.Core.dll
+F:\Projeto_VetSysCli\src\VetSysCli.Application\bin\Debug\net8.0\VetSysCli.Core.pdb
+F:\Projeto_VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\VetSysCli.Application.csproj.AssemblyReference.cache
+F:\Projeto_VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\VetSysCli.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projeto_VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\VetSysCli.Application.AssemblyInfoInputs.cache
+F:\Projeto_VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\VetSysCli.Application.AssemblyInfo.cs
+F:\Projeto_VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\VetSysCli.Application.csproj.CoreCompileInputs.cache
+F:\Projeto_VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\VetSysCli.Application.sourcelink.json
+F:\Projeto_VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\VetSysCl.32A28712.Up2Date
+F:\Projeto_VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\VetSysCli.Application.dll
+F:\Projeto_VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\refint\VetSysCli.Application.dll
+F:\Projeto_VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\VetSysCli.Application.pdb
+F:\Projeto_VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\ref\VetSysCli.Application.dll

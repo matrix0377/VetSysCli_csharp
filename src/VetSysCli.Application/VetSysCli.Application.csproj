@@ -2,7 +2,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\VetSysCli.Core\VetSysCli.Core.csproj" />
-    <ProjectReference Include="..\VetSysCli.Infrastructure\VetSysCli.Infrastructure.csproj" />
   </ItemGroup>
 
   <ItemGroup>

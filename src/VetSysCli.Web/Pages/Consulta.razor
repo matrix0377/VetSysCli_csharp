@@ -1,0 +1,42 @@
+@page "/consulta"
+@inject HttpClient Http
+
+<PageTitle>Consulta</PageTitle>
+<div class="page-header">
+  <h2>Consulta de animais</h2>
+  <p>Encontre pacientes cadastrados pelo nome ou tipo.</p>
+</div>
+
+<div class="card-panel mb-3">
+  <div class="d-flex gap-2 flex-wrap">
+    <input class="form-control" @bind="query" placeholder="Buscar por nome ou tipo" />
+    <button class="btn btn-primary" @onclick="Search">Buscar</button>
+  </div>
+</div>
+
+@if (animals is not null)
+{
+  <div class="cards">
+    @foreach (var animal in animals)
+    {
+      <div class="card-panel">
+        <h3>@animal.Name</h3>
+        <p><strong>Tipo:</strong> @animal.Type</p>
+        <p><strong>Raça:</strong> @animal.Breed</p>
+        <p><strong>Idade:</strong> @animal.Age</p>
+      </div>
+    }
+  </div>
+}
+
+@code {
+  private string query = string.Empty;
+  private List<AnimalDto>? animals;
+
+  protected override async Task OnInitializedAsync() => await Search();
+
+  private async Task Search()
+  {
+    animals = await Http.GetFromJsonAsync<List<AnimalDto>>($"/api/animals?query={Uri.EscapeDataString(query)}") ?? new();
+  }
+}

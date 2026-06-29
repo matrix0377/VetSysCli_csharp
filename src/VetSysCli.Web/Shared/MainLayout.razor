@@ -1,10 +1,13 @@
 @inherits LayoutComponentBase
 <div class="app-shell">
   <aside class="sidebar">
-    <NavMenu />
+    <VetSysCli.Web.Shared.NavMenu />
   </aside>
   <main class="main">
-    <div class="topbar">VetSysCli v1.0</div>
-    <div class="content">@Body</div>
+    <header class="topbar">
+      <span>VetSysCli • Gestão clínica</span>
+      <span>Olá, admin</span>
+    </header>
+    <section class="content">@Body</section>
   </main>
 </div>

@@ -3,10 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using VetSysCli.Application.Interfaces;
 using VetSysCli.Core.Entities;
 using VetSysCli.Infrastructure.Data;
-using VetSysCli.Application.Interfaces;
-
 
 namespace VetSysCli.Infrastructure.Repositories
 {

@@ -1,14 +1,44 @@
-version: '3.8'
 services:
-  db:
+  postgres:
     image: postgres:17
+    container_name: vetsys-postgres
     environment:
       POSTGRES_USER: vetsys
-      POSTGRES_PASSWORD: vetsys_pass
+      POSTGRES_PASSWORD: 102550
       POSTGRES_DB: vetsysdb
     ports:
       - "15432:5432"
     volumes:
       - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U vetsys -d vetsysdb"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: vetsys-api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ConnectionStrings__DefaultConnection: Host=postgres;Port=5432;Database=vetsysdb;Username=vetsys;Password=102550
+    depends_on:
+      postgres:
+        condition: service_healthy
+    ports:
+      - "8080:8080"
+
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile.web
+    container_name: vetsys-web
+    depends_on:
+      - api
+    ports:
+      - "8081:80"
+
 volumes:
   pgdata:

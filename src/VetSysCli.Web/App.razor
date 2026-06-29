@@ -10,3 +10,15 @@
         </LayoutView>
     </NotFound>
 </Router>
+
+@code {
+    [Inject] private NavigationManager Navigation { get; set; } = default!;
+
+    protected override void OnInitialized()
+    {
+        if (Navigation.Uri.EndsWith("/login", StringComparison.OrdinalIgnoreCase) || Navigation.Uri.EndsWith("/", StringComparison.OrdinalIgnoreCase))
+        {
+            Navigation.NavigateTo("/login", forceLoad: false);
+        }
+    }
+}

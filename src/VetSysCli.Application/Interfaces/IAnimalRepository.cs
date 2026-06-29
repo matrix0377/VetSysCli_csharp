@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using VetSysCli.Core.Entities;
 
-namespace VetSysCli.Infrastructure.Repositories
+namespace VetSysCli.Application.Interfaces
 {
     public interface IAnimalRepository
     {

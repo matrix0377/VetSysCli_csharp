@@ -1,0 +1,40 @@
+@page "/login"
+@inject HttpClient Http
+@inject NavigationManager Navigation
+
+<PageTitle>Login</PageTitle>
+
+<div class="login-container">
+    <h3>Entrar</h3>
+    <div class="mb-3">
+        <label>Usuário</label>
+        <input class="form-control" @bind="username" />
+    </div>
+    <div class="mb-3">
+        <label>Senha</label>
+        <input class="form-control" type="password" @bind="password" />
+    </div>
+    <button class="btn btn-primary" @onclick="DoLogin">Entrar</button>
+    @if (!string.IsNullOrEmpty(errorMessage))
+    {
+        <p class="text-danger mt-2">@errorMessage</p>
+    }
+</div>
+
+@code {
+    private string username = "admin";
+    private string password = "123456@";
+    private string? errorMessage;
+
+    private async Task DoLogin()
+    {
+        var response = await Http.PostAsJsonAsync("/api/auth/login", new { username, password });
+        if (response.IsSuccessStatusCode)
+        {
+            Navigation.NavigateTo("/dashboard");
+            return;
+        }
+
+        errorMessage = "Credenciais inválidas";
+    }
+}

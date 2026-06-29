@@ -82,19 +82,6 @@
         "runtime": {
           "bin/placeholder/VetSysCli.Core.dll": {}
         }
-      },
-      "VetSysCli.Infrastructure/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "VetSysCli.Core": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/VetSysCli.Infrastructure.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/VetSysCli.Infrastructure.dll": {}
-        }
       }
     }
   },
@@ -194,18 +181,12 @@
       "type": "project",
       "path": "../VetSysCli.Core/VetSysCli.Core.csproj",
       "msbuildProject": "../VetSysCli.Core/VetSysCli.Core.csproj"
-    },
-    "VetSysCli.Infrastructure/1.0.0": {
-      "type": "project",
-      "path": "../VetSysCli.Infrastructure/VetSysCli.Infrastructure.csproj",
-      "msbuildProject": "../VetSysCli.Infrastructure/VetSysCli.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.AspNetCore.Http.Abstractions >= 2.3.11",
-      "VetSysCli.Core >= 1.0.0",
-      "VetSysCli.Infrastructure >= 1.0.0"
+      "VetSysCli.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -214,11 +195,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projeto VetSysCli\\src\\VetSysCli.Application\\VetSysCli.Application.csproj",
+      "projectUniqueName": "F:\\Projeto_VetSysCli\\src\\VetSysCli.Application\\VetSysCli.Application.csproj",
       "projectName": "VetSysCli.Application",
-      "projectPath": "F:\\Projeto VetSysCli\\src\\VetSysCli.Application\\VetSysCli.Application.csproj",
+      "projectPath": "F:\\Projeto_VetSysCli\\src\\VetSysCli.Application\\VetSysCli.Application.csproj",
       "packagesPath": "C:\\Users\\davi_\\.nuget\\packages\\",
-      "outputPath": "F:\\Projeto VetSysCli\\src\\VetSysCli.Application\\obj\\",
+      "outputPath": "F:\\Projeto_VetSysCli\\src\\VetSysCli.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\davi_\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -233,11 +214,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\Projeto VetSysCli\\src\\VetSysCli.Core\\VetSysCli.Core.csproj": {
-              "projectPath": "F:\\Projeto VetSysCli\\src\\VetSysCli.Core\\VetSysCli.Core.csproj"
-            },
-            "F:\\Projeto VetSysCli\\src\\VetSysCli.Infrastructure\\VetSysCli.Infrastructure.csproj": {
-              "projectPath": "F:\\Projeto VetSysCli\\src\\VetSysCli.Infrastructure\\VetSysCli.Infrastructure.csproj"
+            "F:\\Projeto_VetSysCli\\src\\VetSysCli.Core\\VetSysCli.Core.csproj": {
+              "projectPath": "F:\\Projeto_VetSysCli\\src\\VetSysCli.Core\\VetSysCli.Core.csproj"
             }
           }
         }
