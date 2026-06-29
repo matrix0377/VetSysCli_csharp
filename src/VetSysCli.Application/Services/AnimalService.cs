@@ -8,6 +8,9 @@ using VetSysCli.Infrastructure.Repositories;
 using VetSysCli.Core.Entities;
 using Microsoft.AspNetCore.Http;
 using System.IO;
+using Microsoft.AspNetCore.Http; // para IFormFile (se usar diretamente)
+using VetSysCli.Application.Interfaces; // já deve existir
+
 
 namespace VetSysCli.Application.Services
 {

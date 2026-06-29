@@ -3,6 +3,17 @@ using VetSysCli.Infrastructure.Data;
 using VetSysCli.Infrastructure.Repositories;
 using VetSysCli.Application.Interfaces;
 using VetSysCli.Application.Services;
+using Microsoft.Extensions.FileProviders;
+
+var uploadsPath = Path.Combine(Directory.GetCurrentDirectory(), "uploads");
+if (!Directory.Exists(uploadsPath)) Directory.CreateDirectory(uploadsPath);
+
+app.UseStaticFiles(new StaticFileOptions
+{
+    FileProvider = new PhysicalFileProvider(uploadsPath),
+    RequestPath = "/uploads"
+});
+
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();

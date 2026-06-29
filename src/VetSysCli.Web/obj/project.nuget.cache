@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qHtls6cWtXc=",
+  "dgSpecHash": "SoskPJcneqg=",
   "success": true,
   "projectFilePath": "F:\\Projeto VetSysCli\\src\\VetSysCli.Web\\VetSysCli.Web.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,8 @@
     "C:\\Users\\davi_\\.nuget\\packages\\microsoft.aspnetcore.components.web\\8.0.28\\microsoft.aspnetcore.components.web.8.0.28.nupkg.sha512",
     "C:\\Users\\davi_\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\8.0.28\\microsoft.aspnetcore.components.webassembly.8.0.28.nupkg.sha512",
     "C:\\Users\\davi_\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.devserver\\8.0.28\\microsoft.aspnetcore.components.webassembly.devserver.8.0.28.nupkg.sha512",
+    "C:\\Users\\davi_\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.11\\microsoft.aspnetcore.http.abstractions.2.3.11.nupkg.sha512",
+    "C:\\Users\\davi_\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.10\\microsoft.aspnetcore.http.features.2.3.10.nupkg.sha512",
     "C:\\Users\\davi_\\.nuget\\packages\\microsoft.aspnetcore.metadata\\8.0.28\\microsoft.aspnetcore.metadata.8.0.28.nupkg.sha512",
     "C:\\Users\\davi_\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\davi_\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
@@ -31,6 +33,7 @@
     "C:\\Users\\davi_\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.28\\microsoft.net.illink.tasks.8.0.28.nupkg.sha512",
     "C:\\Users\\davi_\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.28\\microsoft.net.sdk.webassembly.pack.8.0.28.nupkg.sha512",
     "C:\\Users\\davi_\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\davi_\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\davi_\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.28\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.28.nupkg.sha512"
   ],
   "logs": []

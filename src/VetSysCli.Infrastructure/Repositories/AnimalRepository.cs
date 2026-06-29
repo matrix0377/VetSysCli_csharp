@@ -5,6 +5,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using VetSysCli.Core.Entities;
 using VetSysCli.Infrastructure.Data;
+using VetSysCli.Application.Interfaces;
+
 
 namespace VetSysCli.Infrastructure.Repositories
 {

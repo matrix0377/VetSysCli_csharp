@@ -106,6 +106,9 @@
             "projectReferences": {
               "F:\\Projeto VetSysCli\\src\\VetSysCli.Core\\VetSysCli.Core.csproj": {
                 "projectPath": "F:\\Projeto VetSysCli\\src\\VetSysCli.Core\\VetSysCli.Core.csproj"
+              },
+              "F:\\Projeto VetSysCli\\src\\VetSysCli.Infrastructure\\VetSysCli.Infrastructure.csproj": {
+                "projectPath": "F:\\Projeto VetSysCli\\src\\VetSysCli.Infrastructure\\VetSysCli.Infrastructure.csproj"
               }
             }
           }
@@ -124,6 +127,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

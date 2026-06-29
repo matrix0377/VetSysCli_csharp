@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "LRq6zXRJqp4=",
+  "dgSpecHash": "go2Fgxwpexw=",
   "success": true,
   "projectFilePath": "F:\\Projeto VetSysCli\\src\\VetSysCli.Application\\VetSysCli.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\davi_\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.11\\microsoft.aspnetcore.http.abstractions.2.3.11.nupkg.sha512",
+    "C:\\Users\\davi_\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.10\\microsoft.aspnetcore.http.features.2.3.10.nupkg.sha512",
+    "C:\\Users\\davi_\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\davi_\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
