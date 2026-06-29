@@ -49,10 +49,7 @@
       "System.Text.Encodings.Web/8.0.0": {},
       "VetSysCli.Core/1.0.0": {
         "runtime": {
-          "VetSysCli.Core.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "VetSysCli.Core.dll": {}
         }
       }
     }

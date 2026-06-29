@@ -1,90 +1,141 @@
-F:\Projeto VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\appsettings.Development.json
-F:\Projeto VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\appsettings.json
-F:\Projeto VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\VetSysCli.Api.exe
-F:\Projeto VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\VetSysCli.Api.deps.json
-F:\Projeto VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\VetSysCli.Api.runtimeconfig.json
-F:\Projeto VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\VetSysCli.Api.dll
-F:\Projeto VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\VetSysCli.Api.pdb
-F:\Projeto VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-F:\Projeto VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
-F:\Projeto VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-F:\Projeto VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-F:\Projeto VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-F:\Projeto VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\VetSysCli.Application.dll
-F:\Projeto VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\VetSysCli.Core.dll
-F:\Projeto VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\VetSysCli.Infrastructure.dll
-F:\Projeto VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\VetSysCli.Application.pdb
-F:\Projeto VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\VetSysCli.Infrastructure.pdb
-F:\Projeto VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\VetSysCli.Core.pdb
-F:\Projeto VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\VetSysCli.Api.csproj.AssemblyReference.cache
-F:\Projeto VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\VetSysCli.Api.GeneratedMSBuildEditorConfig.editorconfig
-F:\Projeto VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\VetSysCli.Api.AssemblyInfoInputs.cache
-F:\Projeto VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\VetSysCli.Api.AssemblyInfo.cs
-F:\Projeto VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\VetSysCli.Api.csproj.CoreCompileInputs.cache
-F:\Projeto VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\VetSysCli.Api.MvcApplicationPartsAssemblyInfo.cs
-F:\Projeto VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\VetSysCli.Api.MvcApplicationPartsAssemblyInfo.cache
-F:\Projeto VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\staticwebassets.build.json
-F:\Projeto VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\staticwebassets.development.json
-F:\Projeto VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\staticwebassets\msbuild.VetSysCli.Api.Microsoft.AspNetCore.StaticWebAssets.props
-F:\Projeto VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.VetSysCli.Api.props
-F:\Projeto VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.VetSysCli.Api.props
-F:\Projeto VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.VetSysCli.Api.props
-F:\Projeto VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\staticwebassets.pack.json
-F:\Projeto VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\scopedcss\bundle\VetSysCli.Api.styles.css
-F:\Projeto VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\VetSysCl.B466C6D0.Up2Date
-F:\Projeto VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\VetSysCli.Api.dll
-F:\Projeto VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\refint\VetSysCli.Api.dll
-F:\Projeto VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\VetSysCli.Api.pdb
-F:\Projeto VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\VetSysCli.Api.genruntimeconfig.cache
-F:\Projeto VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\ref\VetSysCli.Api.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\VetSysCli.Api.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\refint\VetSysCli.Api.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\VetSysCli.Api.pdb
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\appsettings.json
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\appsettings.Development.json
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\VetSysCli.Api.exe
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\VetSysCli.Api.deps.json
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\VetSysCli.Api.runtimeconfig.json
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\VetSysCli.Api.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\VetSysCli.Api.pdb
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\Npgsql.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\VetSysCli.Application.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\VetSysCli.Core.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\VetSysCli.Infrastructure.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\VetSysCli.Application.pdb
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\VetSysCli.Infrastructure.pdb
-F:\Projeto_VetSysCli\src\VetSysCli.Api\bin\Debug\net8.0\VetSysCli.Core.pdb
-F:\Projeto_VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\VetSysCli.Api.csproj.AssemblyReference.cache
-F:\Projeto_VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\VetSysCli.Api.GeneratedMSBuildEditorConfig.editorconfig
-F:\Projeto_VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\VetSysCli.Api.AssemblyInfoInputs.cache
-F:\Projeto_VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\VetSysCli.Api.AssemblyInfo.cs
-F:\Projeto_VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\VetSysCli.Api.csproj.CoreCompileInputs.cache
-F:\Projeto_VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\VetSysCli.Api.MvcApplicationPartsAssemblyInfo.cs
-F:\Projeto_VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\VetSysCli.Api.MvcApplicationPartsAssemblyInfo.cache
-F:\Projeto_VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\VetSysCli.Api.sourcelink.json
-F:\Projeto_VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\staticwebassets.build.json
-F:\Projeto_VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\staticwebassets.development.json
-F:\Projeto_VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\staticwebassets\msbuild.VetSysCli.Api.Microsoft.AspNetCore.StaticWebAssets.props
-F:\Projeto_VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.VetSysCli.Api.props
-F:\Projeto_VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.VetSysCli.Api.props
-F:\Projeto_VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.VetSysCli.Api.props
-F:\Projeto_VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\staticwebassets.pack.json
-F:\Projeto_VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\scopedcss\bundle\VetSysCli.Api.styles.css
-F:\Projeto_VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\VetSysCl.B466C6D0.Up2Date
-F:\Projeto_VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\VetSysCli.Api.genruntimeconfig.cache
-F:\Projeto_VetSysCli\src\VetSysCli.Api\obj\Debug\net8.0\ref\VetSysCli.Api.dll
+F:/Projeto VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/appsettings.Development.json
+F:/Projeto VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/appsettings.json
+F:/Projeto VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Api.exe
+F:/Projeto VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Api.deps.json
+F:/Projeto VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Api.runtimeconfig.json
+F:/Projeto VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Api.dll
+F:/Projeto VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Api.pdb
+F:/Projeto VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+F:/Projeto VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+F:/Projeto VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+F:/Projeto VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+F:/Projeto VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+F:/Projeto VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Application.dll
+F:/Projeto VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Core.dll
+F:/Projeto VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Infrastructure.dll
+F:/Projeto VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Application.pdb
+F:/Projeto VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Infrastructure.pdb
+F:/Projeto VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Core.pdb
+F:/Projeto VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.csproj.AssemblyReference.cache
+F:/Projeto VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:/Projeto VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.AssemblyInfoInputs.cache
+F:/Projeto VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.AssemblyInfo.cs
+F:/Projeto VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.csproj.CoreCompileInputs.cache
+F:/Projeto VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.MvcApplicationPartsAssemblyInfo.cs
+F:/Projeto VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.MvcApplicationPartsAssemblyInfo.cache
+F:/Projeto VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/staticwebassets.build.json
+F:/Projeto VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/staticwebassets.development.json
+F:/Projeto VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/staticwebassets/msbuild.VetSysCli.Api.Microsoft.AspNetCore.StaticWebAssets.props
+F:/Projeto VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/staticwebassets/msbuild.build.VetSysCli.Api.props
+F:/Projeto VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.VetSysCli.Api.props
+F:/Projeto VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.VetSysCli.Api.props
+F:/Projeto VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/staticwebassets.pack.json
+F:/Projeto VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/scopedcss/bundle/VetSysCli.Api.styles.css
+F:/Projeto VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCl.B466C6D0.Up2Date
+F:/Projeto VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.dll
+F:/Projeto VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/refint/VetSysCli.Api.dll
+F:/Projeto VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.pdb
+F:/Projeto VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.genruntimeconfig.cache
+F:/Projeto VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/ref/VetSysCli.Api.dll
+F:/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.dll
+F:/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/refint/VetSysCli.Api.dll
+F:/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.pdb
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/appsettings.json
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/appsettings.Development.json
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Api.exe
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Api.deps.json
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Api.runtimeconfig.json
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Api.dll
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Api.pdb
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Npgsql.dll
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Application.dll
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Core.dll
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Infrastructure.dll
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Application.pdb
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Infrastructure.pdb
+F:/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Core.pdb
+F:/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.csproj.AssemblyReference.cache
+F:/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.AssemblyInfoInputs.cache
+F:/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.AssemblyInfo.cs
+F:/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.csproj.CoreCompileInputs.cache
+F:/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.MvcApplicationPartsAssemblyInfo.cs
+F:/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.MvcApplicationPartsAssemblyInfo.cache
+F:/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.sourcelink.json
+F:/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/staticwebassets.build.json
+F:/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/staticwebassets.development.json
+F:/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/staticwebassets/msbuild.VetSysCli.Api.Microsoft.AspNetCore.StaticWebAssets.props
+F:/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/staticwebassets/msbuild.build.VetSysCli.Api.props
+F:/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.VetSysCli.Api.props
+F:/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.VetSysCli.Api.props
+F:/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/staticwebassets.pack.json
+F:/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/scopedcss/bundle/VetSysCli.Api.styles.css
+F:/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCl.B466C6D0.Up2Date
+F:/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.genruntimeconfig.cache
+F:/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/ref/VetSysCli.Api.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/appsettings.json
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/appsettings.Development.json
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Api
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Api.deps.json
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Api.runtimeconfig.json
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Api.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Api.pdb
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Npgsql.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Application.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Core.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Infrastructure.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Application.pdb
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Infrastructure.pdb
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/bin/Debug/net8.0/VetSysCli.Core.pdb
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.csproj.AssemblyReference.cache
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.AssemblyInfoInputs.cache
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.AssemblyInfo.cs
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.csproj.CoreCompileInputs.cache
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.MvcApplicationPartsAssemblyInfo.cs
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.MvcApplicationPartsAssemblyInfo.cache
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.sourcelink.json
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/staticwebassets.build.json
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/staticwebassets.development.json
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/staticwebassets/msbuild.VetSysCli.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/staticwebassets/msbuild.build.VetSysCli.Api.props
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.VetSysCli.Api.props
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.VetSysCli.Api.props
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/staticwebassets.pack.json
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/scopedcss/bundle/VetSysCli.Api.styles.css
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.csproj.CopyComplete
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/refint/VetSysCli.Api.dll
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.pdb
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/VetSysCli.Api.genruntimeconfig.cache
+/mnt/f/Projeto_VetSysCli/src/VetSysCli.Api/obj/Debug/net8.0/ref/VetSysCli.Api.dll

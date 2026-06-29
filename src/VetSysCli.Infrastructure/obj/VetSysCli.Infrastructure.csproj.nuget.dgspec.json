@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projeto_VetSysCli\\src\\VetSysCli.Infrastructure\\VetSysCli.Infrastructure.csproj": {}
+    "/mnt/f/Projeto_VetSysCli/src/VetSysCli.Infrastructure/VetSysCli.Infrastructure.csproj": {}
   },
   "projects": {
-    "F:\\Projeto_VetSysCli\\src\\VetSysCli.Application\\VetSysCli.Application.csproj": {
+    "/mnt/f/Projeto_VetSysCli/src/VetSysCli.Application/VetSysCli.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projeto_VetSysCli\\src\\VetSysCli.Application\\VetSysCli.Application.csproj",
+        "projectUniqueName": "/mnt/f/Projeto_VetSysCli/src/VetSysCli.Application/VetSysCli.Application.csproj",
         "projectName": "VetSysCli.Application",
-        "projectPath": "F:\\Projeto_VetSysCli\\src\\VetSysCli.Application\\VetSysCli.Application.csproj",
-        "packagesPath": "C:\\Users\\davi_\\.nuget\\packages\\",
-        "outputPath": "F:\\Projeto_VetSysCli\\src\\VetSysCli.Application\\obj\\",
+        "projectPath": "/mnt/f/Projeto_VetSysCli/src/VetSysCli.Application/VetSysCli.Application.csproj",
+        "packagesPath": "/home/mark1/.nuget/packages/",
+        "outputPath": "/mnt/f/Projeto_VetSysCli/src/VetSysCli.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\davi_\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/mark1/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\Projeto_VetSysCli\\src\\VetSysCli.Core\\VetSysCli.Core.csproj": {
-                "projectPath": "F:\\Projeto_VetSysCli\\src\\VetSysCli.Core\\VetSysCli.Core.csproj"
+              "/mnt/f/Projeto_VetSysCli/src/VetSysCli.Core/VetSysCli.Core.csproj": {
+                "projectPath": "/mnt/f/Projeto_VetSysCli/src/VetSysCli.Core/VetSysCli.Core.csproj"
               }
             }
           }
@@ -36,11 +36,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -68,21 +63,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.422/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.128/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Projeto_VetSysCli\\src\\VetSysCli.Core\\VetSysCli.Core.csproj": {
+    "/mnt/f/Projeto_VetSysCli/src/VetSysCli.Core/VetSysCli.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projeto_VetSysCli\\src\\VetSysCli.Core\\VetSysCli.Core.csproj",
+        "projectUniqueName": "/mnt/f/Projeto_VetSysCli/src/VetSysCli.Core/VetSysCli.Core.csproj",
         "projectName": "VetSysCli.Core",
-        "projectPath": "F:\\Projeto_VetSysCli\\src\\VetSysCli.Core\\VetSysCli.Core.csproj",
-        "packagesPath": "C:\\Users\\davi_\\.nuget\\packages\\",
-        "outputPath": "F:\\Projeto_VetSysCli\\src\\VetSysCli.Core\\obj\\",
+        "projectPath": "/mnt/f/Projeto_VetSysCli/src/VetSysCli.Core/VetSysCli.Core.csproj",
+        "packagesPath": "/home/mark1/.nuget/packages/",
+        "outputPath": "/mnt/f/Projeto_VetSysCli/src/VetSysCli.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\davi_\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/mark1/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -100,11 +95,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -126,21 +116,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.422/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.128/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Projeto_VetSysCli\\src\\VetSysCli.Infrastructure\\VetSysCli.Infrastructure.csproj": {
+    "/mnt/f/Projeto_VetSysCli/src/VetSysCli.Infrastructure/VetSysCli.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projeto_VetSysCli\\src\\VetSysCli.Infrastructure\\VetSysCli.Infrastructure.csproj",
+        "projectUniqueName": "/mnt/f/Projeto_VetSysCli/src/VetSysCli.Infrastructure/VetSysCli.Infrastructure.csproj",
         "projectName": "VetSysCli.Infrastructure",
-        "projectPath": "F:\\Projeto_VetSysCli\\src\\VetSysCli.Infrastructure\\VetSysCli.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\davi_\\.nuget\\packages\\",
-        "outputPath": "F:\\Projeto_VetSysCli\\src\\VetSysCli.Infrastructure\\obj\\",
+        "projectPath": "/mnt/f/Projeto_VetSysCli/src/VetSysCli.Infrastructure/VetSysCli.Infrastructure.csproj",
+        "packagesPath": "/home/mark1/.nuget/packages/",
+        "outputPath": "/mnt/f/Projeto_VetSysCli/src/VetSysCli.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\davi_\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/mark1/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -152,11 +142,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\Projeto_VetSysCli\\src\\VetSysCli.Application\\VetSysCli.Application.csproj": {
-                "projectPath": "F:\\Projeto_VetSysCli\\src\\VetSysCli.Application\\VetSysCli.Application.csproj"
+              "/mnt/f/Projeto_VetSysCli/src/VetSysCli.Application/VetSysCli.Application.csproj": {
+                "projectPath": "/mnt/f/Projeto_VetSysCli/src/VetSysCli.Application/VetSysCli.Application.csproj"
               },
-              "F:\\Projeto_VetSysCli\\src\\VetSysCli.Core\\VetSysCli.Core.csproj": {
-                "projectPath": "F:\\Projeto_VetSysCli\\src\\VetSysCli.Core\\VetSysCli.Core.csproj"
+              "/mnt/f/Projeto_VetSysCli/src/VetSysCli.Core/VetSysCli.Core.csproj": {
+                "projectPath": "/mnt/f/Projeto_VetSysCli/src/VetSysCli.Core/VetSysCli.Core.csproj"
               }
             }
           }
@@ -165,11 +155,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -201,7 +186,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.422/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.128/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

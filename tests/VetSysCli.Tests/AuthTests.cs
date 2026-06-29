@@ -1,5 +1,5 @@
-using System.Net.Http.Json;
-using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
+using VetSysCli.Api.Controllers;
 using Xunit;
 
 namespace VetSysCli.Tests;
@@ -7,11 +7,14 @@ namespace VetSysCli.Tests;
 public class AuthTests
 {
     [Fact]
-    public async Task LoginEndpoint_ShouldAcceptDefaultAdminCredentials()
+    public void LoginEndpoint_ShouldAcceptDefaultAdminCredentials()
     {
-        using var client = new HttpClient { BaseAddress = new System.Uri("http://localhost:5001") };
-        var response = await client.PostAsJsonAsync("/api/auth/login", new { username = "admin", password = "123456@" });
+        var controller = new AuthController();
 
-        Assert.True(response.IsSuccessStatusCode);
+        var result = controller.Login(new LoginRequest { Username = "admin", Password = "123456@" });
+
+        var okResult = Assert.IsType<OkObjectResult>(result);
+        Assert.NotNull(okResult.Value);
+        Assert.Equal(200, okResult.StatusCode);
     }
 }

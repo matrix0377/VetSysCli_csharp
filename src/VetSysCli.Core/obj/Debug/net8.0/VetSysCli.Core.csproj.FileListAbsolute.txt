@@ -34,15 +34,3 @@ F:/Projeto_VetSysCli/src/VetSysCli.Core/obj/Debug/net8.0/ref/VetSysCli.Core.dll
 /mnt/f/Projeto_VetSysCli/src/VetSysCli.Core/obj/Debug/net8.0/refint/VetSysCli.Core.dll
 /mnt/f/Projeto_VetSysCli/src/VetSysCli.Core/obj/Debug/net8.0/VetSysCli.Core.pdb
 /mnt/f/Projeto_VetSysCli/src/VetSysCli.Core/obj/Debug/net8.0/ref/VetSysCli.Core.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Core\bin\Debug\net8.0\VetSysCli.Core.deps.json
-F:\Projeto_VetSysCli\src\VetSysCli.Core\bin\Debug\net8.0\VetSysCli.Core.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Core\bin\Debug\net8.0\VetSysCli.Core.pdb
-F:\Projeto_VetSysCli\src\VetSysCli.Core\obj\Debug\net8.0\VetSysCli.Core.GeneratedMSBuildEditorConfig.editorconfig
-F:\Projeto_VetSysCli\src\VetSysCli.Core\obj\Debug\net8.0\VetSysCli.Core.AssemblyInfoInputs.cache
-F:\Projeto_VetSysCli\src\VetSysCli.Core\obj\Debug\net8.0\VetSysCli.Core.AssemblyInfo.cs
-F:\Projeto_VetSysCli\src\VetSysCli.Core\obj\Debug\net8.0\VetSysCli.Core.csproj.CoreCompileInputs.cache
-F:\Projeto_VetSysCli\src\VetSysCli.Core\obj\Debug\net8.0\VetSysCli.Core.sourcelink.json
-F:\Projeto_VetSysCli\src\VetSysCli.Core\obj\Debug\net8.0\VetSysCli.Core.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Core\obj\Debug\net8.0\refint\VetSysCli.Core.dll
-F:\Projeto_VetSysCli\src\VetSysCli.Core\obj\Debug\net8.0\VetSysCli.Core.pdb
-F:\Projeto_VetSysCli\src\VetSysCli.Core\obj\Debug\net8.0\ref\VetSysCli.Core.dll

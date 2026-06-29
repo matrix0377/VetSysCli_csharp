@@ -1238,7 +1238,7 @@
         "runtime": {
           "lib/netstandard2.0/xunit.abstractions.dll": {
             "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.0.0.0"
+            "fileVersion": "0.0.0.0"
           }
         }
       },
@@ -1294,10 +1294,7 @@
           "VetSysCli.Infrastructure": "1.0.0"
         },
         "runtime": {
-          "VetSysCli.Api.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "VetSysCli.Api.dll": {}
         }
       },
       "VetSysCli.Application/1.0.0": {
@@ -1306,18 +1303,12 @@
           "VetSysCli.Core": "1.0.0"
         },
         "runtime": {
-          "VetSysCli.Application.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "VetSysCli.Application.dll": {}
         }
       },
       "VetSysCli.Core/1.0.0": {
         "runtime": {
-          "VetSysCli.Core.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "VetSysCli.Core.dll": {}
         }
       },
       "VetSysCli.Infrastructure/1.0.0": {
@@ -1328,10 +1319,7 @@
           "VetSysCli.Core": "1.0.0"
         },
         "runtime": {
-          "VetSysCli.Infrastructure.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "VetSysCli.Infrastructure.dll": {}
         }
       }
     }
