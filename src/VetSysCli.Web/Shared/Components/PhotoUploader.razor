@@ -1,0 +1,16 @@
+<InputFile OnChange="OnFileSelected" />
+<button @onclick="Upload">Enviar</button>
+
+@code {
+  IBrowserFile file;
+  [Parameter] public Guid AnimalId { get; set; }
+  async Task OnFileSelected(InputFileChangeEventArgs e) => file = e.File;
+  async Task Upload()
+  {
+    if (file == null) return;
+    var content = new MultipartFormDataContent();
+    var stream = file.OpenReadStream(10 * 1024 * 1024);
+    content.Add(new StreamContent(stream), "file", file.Name);
+    await Http.PostAsync($"api/animals/{AnimalId}/photo", content);
+  }
+}

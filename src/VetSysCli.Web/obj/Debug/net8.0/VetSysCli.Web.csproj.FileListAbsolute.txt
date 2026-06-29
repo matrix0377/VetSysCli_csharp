@@ -1,0 +1,7 @@
+F:\Projeto VetSysCli\src\VetSysCli.Web\obj\Debug\net8.0\VetSysCli.Web.csproj.AssemblyReference.cache
+F:\Projeto VetSysCli\src\VetSysCli.Web\obj\Debug\net8.0\VetSysCli.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projeto VetSysCli\src\VetSysCli.Web\obj\Debug\net8.0\VetSysCli.Web.AssemblyInfoInputs.cache
+F:\Projeto VetSysCli\src\VetSysCli.Web\obj\Debug\net8.0\VetSysCli.Web.AssemblyInfo.cs
+F:\Projeto VetSysCli\src\VetSysCli.Web\obj\Debug\net8.0\VetSysCli.Web.csproj.CoreCompileInputs.cache
+F:\Projeto VetSysCli\src\VetSysCli.Web\obj\Debug\net8.0\VetSysCli.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\Projeto VetSysCli\src\VetSysCli.Web\obj\Debug\net8.0\VetSysCli.Web.sourcelink.json

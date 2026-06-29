@@ -13,3 +13,4 @@ F:\Projeto VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\VetSysCli.Applic
 F:\Projeto VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\refint\VetSysCli.Application.dll
 F:\Projeto VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\VetSysCli.Application.pdb
 F:\Projeto VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\ref\VetSysCli.Application.dll
+F:\Projeto VetSysCli\src\VetSysCli.Application\obj\Debug\net8.0\VetSysCli.Application.sourcelink.json

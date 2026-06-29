@@ -1,0 +1,22 @@
+@page "/animal/{Id:guid}"
+@inject HttpClient Http
+@code { [Parameter] public Guid Id { get; set; } AnimalDto animal; }
+
+<h3>@(animal?.Name ?? "Carregando...")</h3>
+@if (animal != null)
+{
+  <div class="details">
+    <img src="@animal.PhotoPath" class="photo" />
+    <div><strong>Idade</strong> @animal.Age</div>
+    <div><strong>Tipo</strong> @animal.Type</div>
+    <div><strong>Raça</strong> @animal.Breed</div>
+    <!-- abas e demais seções -->
+  </div>
+}
+
+@code {
+  protected override async Task OnInitializedAsync()
+  {
+    animal = await Http.GetFromJsonAsync<AnimalDto>($"api/animals/{Id}");
+  }
+}

@@ -449,6 +449,29 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "VetSysCli.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "VetSysCli.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VetSysCli.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VetSysCli.Application.dll": {}
+        }
+      },
+      "VetSysCli.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/VetSysCli.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VetSysCli.Core.dll": {}
+        }
       }
     },
     "net8.0/browser-wasm": {
@@ -898,6 +921,29 @@
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
+        }
+      },
+      "VetSysCli.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "VetSysCli.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VetSysCli.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VetSysCli.Application.dll": {}
+        }
+      },
+      "VetSysCli.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/VetSysCli.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VetSysCli.Core.dll": {}
         }
       }
     }
@@ -1831,6 +1877,16 @@
         "system.io.pipelines.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "VetSysCli.Application/1.0.0": {
+      "type": "project",
+      "path": "../VetSysCli.Application/VetSysCli.Application.csproj",
+      "msbuildProject": "../VetSysCli.Application/VetSysCli.Application.csproj"
+    },
+    "VetSysCli.Core/1.0.0": {
+      "type": "project",
+      "path": "../VetSysCli.Core/VetSysCli.Core.csproj",
+      "msbuildProject": "../VetSysCli.Core/VetSysCli.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1838,7 +1894,8 @@
       "Microsoft.AspNetCore.Components.WebAssembly >= 8.0.28",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 8.0.28",
       "Microsoft.NET.ILLink.Tasks >= 8.0.28",
-      "Microsoft.NET.Sdk.WebAssembly.Pack >= 8.0.28"
+      "Microsoft.NET.Sdk.WebAssembly.Pack >= 8.0.28",
+      "VetSysCli.Application >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1865,7 +1922,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\Projeto VetSysCli\\src\\VetSysCli.Application\\VetSysCli.Application.csproj": {
+              "projectPath": "F:\\Projeto VetSysCli\\src\\VetSysCli.Application\\VetSysCli.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

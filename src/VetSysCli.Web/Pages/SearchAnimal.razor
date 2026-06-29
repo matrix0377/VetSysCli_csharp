@@ -1,0 +1,32 @@
+@inject HttpClient Http
+<input @bind="query" placeholder="Pesquisar por nome, dono ou chip" class="search" />
+<button @onclick="Search">Pesquisar</button>
+
+@if (animals != null)
+{
+  <div class="list">
+    @foreach (var a in animals)
+    {
+      <div class="card" @onclick="() => Open(a.Id)">
+        <img src="@a.PhotoPath" alt="foto" class="thumb" />
+        <div>
+          <strong>@a.Name</strong>
+          <div>@a.Type • @a.Breed</div>
+          <div>@a.Age</div>
+        </div>
+      </div>
+    }
+  </div>
+}
+
+@code {
+  string query;
+  List<AnimalDto> animals;
+
+  async Task Search()
+  {
+    animals = await Http.GetFromJsonAsync<List<AnimalDto>>($"api/animals?query={Uri.EscapeDataString(query ?? "")}");
+  }
+
+  void Open(Guid id) => NavigationManager.NavigateTo($"/animal/{id}");
+}

@@ -1,0 +1,20 @@
+:root{
+  --g-start: #0f172a;
+  --g-end: #1e3a8a;
+  --accent: #06b6d4;
+  --bg: #f8fafc;
+}
+body {
+  font-family: Inter, Roboto, system-ui;
+  background: linear-gradient(180deg, var(--g-start), var(--g-end));
+  color: #fff;
+  margin: 0;
+}
+.app-shell { display:flex; min-height:100vh; }
+.sidebar { width:220px; background: rgba(255,255,255,0.04); padding:16px; }
+.main { flex:1; padding:20px; }
+.card { background: rgba(255,255,255,0.06); border-radius:8px; padding:12px; margin:8px 0; display:flex; gap:12px; align-items:center; }
+.thumb { width:64px; height:64px; object-fit:cover; border-radius:6px; }
+.photo { width:200px; height:200px; object-fit:cover; border-radius:8px; }
+.search { padding:8px; width:60%; border-radius:6px; border: none; }
+button { background: linear-gradient(90deg,var(--accent),#34d399); border:none; padding:8px 12px; border-radius:6px; color:#062024; cursor:pointer; }
